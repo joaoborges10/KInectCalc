@@ -1,0 +1,8 @@
+{
+  "name": "KinetiCalc - Calculadora Cinética",
+  "description": "Simulador e calculadora cinética para determinação de ordem de reação (0ª, 1ª e 2ª ordem), regressão linear, RMSE, R² e meia-vida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
