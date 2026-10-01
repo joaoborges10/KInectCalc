@@ -152,7 +152,7 @@ def fit_kinetics(x, y):
     return sorted(results, key=lambda r: r['rmse'])
 
 if __name__ == "__main__":
-    # Parâmetros configurados atualmente no KinetiCalc:
+    # Parâmetros configurados atualmente no KinectCalc:
     c0 = ${config.c0}
     k = ${config.k}
     order = ${config.order}

@@ -177,7 +177,7 @@ export default function App() {
       <footer className="border-t border-slate-900 bg-slate-950 py-4 px-6 text-center text-xs text-slate-500">
         <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-2">
           <p>
-            KinetiCalc · Bancada Cinética Química com Ajuste por Mínimos Quadrados e Diagnóstico de Ordens 0, 1 e 2
+            KinectCalc · Bancada Cinética Química com Ajuste por Mínimos Quadrados e Diagnóstico de Ordens 0, 1 e 2
           </p>
           <div className="flex items-center gap-3 font-mono text-[11px]">
             <span>Algoritmo: Regressão Linear Múltipla + RMSE Espacial</span>

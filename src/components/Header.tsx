@@ -25,7 +25,7 @@ export const Header: React.FC<Props> = ({
           <div>
             <div className="flex items-center gap-2">
               <h1 className="text-base font-bold tracking-tight text-slate-100">
-                KinetiCalc
+                KinectCalc
               </h1>
               <span className="text-[11px] font-mono text-slate-400">
                 v1.2 · Cinética Química
